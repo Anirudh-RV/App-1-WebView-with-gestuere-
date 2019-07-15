@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "674960798129",
+    "firebase_url": "https://madproject-ce769.firebaseio.com",
+    "project_id": "madproject-ce769",
+    "storage_bucket": "madproject-ce769.appspot.com"
+  },
+   "notification" : {
+      "body" : "great match!",
+      "title" : "Portugal vs. Denmark",
+      "icon" : "myicon",
+      "sound" : "mySound"
+    },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:674960798129:android:880a74b23d82988f",
+        "android_client_info": {
+          "package_name": "com.example.anirudhrv.instagram"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "674960798129-f446aejl3ha1feu0ohaj5o0jbu8rfkjb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvkVQYcc2oDw-YDxn23mHWtdcmTmW3dS8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "674960798129-f446aejl3ha1feu0ohaj5o0jbu8rfkjb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

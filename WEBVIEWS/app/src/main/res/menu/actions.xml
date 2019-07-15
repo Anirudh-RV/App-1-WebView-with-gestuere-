@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/cnt_mnu_event"
+        android:title="E V E N T S"
+        />
+
+    <item
+        android:id="@+id/cnt_mnu_work"
+        android:title="W O R K S H O P "
+        />
+
+    <item
+        android:id="@+id/cnt_mnu_home"
+        android:title="H O M E"
+        />
+
+</menu>
